@@ -57,9 +57,9 @@ Create a standalone executable using py installer
 -If the user selects Trend or Range a table will pop up with a confirmation code that your stocks were  successfully purchased.
 
 ## **Credits**
-Jamaine Barnes 
-Kristian Beckley 
-Amir Crutchfield
-Sydney Johnson 
-Lauren Mathis 
+Kristian Beckley,
+Jamaine Barnes,
+Amir Crutchfield,
+Sydney Johnson, 
+Lauren Mathis, and  
 Jadon Sadler  
